@@ -1,0 +1,61 @@
+img {
+    width: 100px;
+    height: 100px;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+}
+
+#div3 {
+
+    width: 200px;
+    height: 200px;
+}
+
+td {
+    border: 1px inset black;
+    text-align: center;
+}
+
+#td34 {
+    width: 200px;
+    height: 200px;
+}
+
+#td11 {
+    cursor:crosshair;
+}
+
+#td21 {
+    cursor:help;
+}
+
+#td31 {
+    cursor:nw-resize;
+}
+
+a#fl {
+    text-decoration: none;
+}
+
+a#sl:link {
+    color: #FF00FF;
+    font-style: italic;
+}
+
+a#sl:visited {
+    color: #006600;
+    font-style: inherit;
+}
+
+a#sl:active {
+    color: #000000;
+    font-style: inherit;
+}
+
+a#tl:hover {
+    color: #006600;
+    font-size: 7pt;
+}

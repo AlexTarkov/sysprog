@@ -1,0 +1,49 @@
+#div1 {
+    width: 550px;
+	height: 150px;
+	border-style: inset;
+	margin: 10px;
+	padding: 5px;
+	border-color: red;
+	border-width: 5px;
+}
+
+#div2 {
+    width: 300px;
+	height: 200px;
+	border-style: dotted;
+	margin-left: 20px;
+	padding: 10px;
+	border-color: blue;
+	border-left-width: 1px;
+	border-top-width: 1px;
+	
+	top: 10px;
+	left: 620px;
+	position: fixed
+}
+
+#div3 {
+    width: 250px;
+	margin-left: 15px;
+	padding: 10px;
+	border-color: #FF00FF;
+	border-style: double;
+	border-left-width: 6px;
+}
+
+#div4 {
+	position: absolute;
+	top: 230px;
+	left: 320px;
+	border-style: double;
+}
+
+#div5 {
+	width:100px;
+	height: 1400px;
+	overflow: auto;
+}
+
+
+

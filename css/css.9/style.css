@@ -1,0 +1,93 @@
+div {
+    border-style: inset;
+    border-width: 1px;
+    border-color: black;
+    display: inline-block;
+}
+
+#div0 {
+    /*width: 600px;*/
+    /*height: 600px;*/
+}
+
+img {
+    width: 400px;
+}
+
+#pic2 {
+    margin: 20px;
+}
+
+#pic1 {
+    margin: 20px;
+}
+
+.my7 {
+    -webkit-filter: grayscale(100%);
+}
+
+.my0 {
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.my8 {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    -ms-filter: flipv; /*IE*/
+    filter: flipv; /*IE*/
+}
+
+.my1 {
+    /*filter:progid:DXImageTransform.Microsoft.Shadow(color=#666666,direction=45);*/
+    background: #000000; /* обязательно для ie */
+    -webkit-box-shadow: 0px 0px 15px #000000;
+    -moz-box-shadow: 0px 0px 15px #000000;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+.my2 {
+    box-shadow: 5px 5px 5px #707070;
+}
+
+.my3 {
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+}
+
+.my6 {
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+    -o-filter: invert(100%);
+    -ms-filter: invert(100%);
+}
+
+.my4 {
+    opacity: 0.5;
+}
+
+.my5 {
+    -webkit-box-shadow: 0px 0px 3px 5px #00ff00;
+    -moz-box-shadow: 0px 0px 3px 5px #00ff00;
+    box-shadow: 0px 0px 3px 5px #00ff00;
+}
+
+.my9 {
+    filter: wave(freq=10, light=100, phase=10, strength=5, add=0);
+}
+
+.my10 {
+    filter:DXImageTransform.Microsoft.Xray();
+}
+
+.my {
+
+}

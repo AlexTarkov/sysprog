@@ -1,0 +1,12 @@
+div {
+    /*position: absolute;*/
+    width: 50px;
+    border-color: black;
+    height: 100px;
+    background: #ff0000;
+    margin-bottom: 0px;
+}
+
+td {
+    vertical-align: bottom;
+}

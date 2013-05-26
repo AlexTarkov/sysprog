@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+div#line {
+    position: relative;
+    background: black;
+    width: 300px;
+    height: 30px;
+    /*margin: 0 auto;*/
+}
+
+.r {
+    float: right;
+    background: #ff0000;
+    /*margin:0;*/
+}
+
+.l {
+    float: left;
+    background: #ff0000;
+    /*margin:0;*/
+}
+
+.c {
+    margin: 0 auto;
+    /*background: #ff0000;*/
+}
+
+div#container {
+    width: 100%;
+    border: 1px inset #006600;
+}
